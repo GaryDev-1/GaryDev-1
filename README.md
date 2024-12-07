@@ -54,11 +54,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GaryDev-1&theme=dark" alt="GaryDev-1" />
 </p>
 
-### 🌟 Featured Projects
-- 🏠 **Nestora Ltd** - Trusted hands, just a tap away
-  - React Native / Next.js / .NET Core
-  - [Link to repo]
-
 ### 📫 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/gary-duncan-louw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gary-duncan-louw" height="30" width="40" /></a>
